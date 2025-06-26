@@ -30,6 +30,7 @@ How to Run the Project:
 1. Clone or download the project folder.
 2. Make sure all images are in the img/ folder as referenced in index.html and style.css.
 3. Open index.html in your browser.
+4.Visit the link - http://ecommerce-website-gamma-ecru.vercel.app/
 
 Future Enhancements (optional):
 - Backend integration for cart and payment functionality
