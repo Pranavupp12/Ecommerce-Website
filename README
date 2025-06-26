@@ -1,0 +1,38 @@
+Project Title:
+Ecommerce Website - Zapp
+
+Project Description:
+This is a responsive ecommerce website front-end built with HTML, CSS, and JavaScript. It showcases a clean and modern UI featuring products, promotional banners, navigation menus, and a newsletter subscription section. Ideal for a fashion-focused online store.
+
+Features:
+- Responsive navigation bar with mobile support
+- Hero section with call-to-action
+- Feature highlights (e.g., Free Shipping, Discounts)
+- Product listings (Featured & New Arrivals)
+- Promotional banners and seasonal sales
+- Newsletter subscription form
+- Footer with company, contact, and download info
+
+Technologies Used:
+- HTML5: For page structure
+- CSS3: For styling and responsive design
+- JavaScript: For basic interactive functionality (menu toggle)
+- Font Awesome: For icons
+- Google Fonts: League Spartan
+
+File Structure:
+index.html        → Main HTML file
+style.css         → Stylesheet for layout and responsiveness
+script.js         → JS file for UI interactivity (e.g., mobile menu)
+/img/             → Directory for all images (logo, banners, products, etc.)
+
+How to Run the Project:
+1. Clone or download the project folder.
+2. Make sure all images are in the img/ folder as referenced in index.html and style.css.
+3. Open index.html in your browser.
+
+Future Enhancements (optional):
+- Backend integration for cart and payment functionality
+- Dynamic product loading via APIs or databases
+- User authentication
+- Search and filter features
